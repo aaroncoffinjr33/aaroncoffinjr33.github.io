@@ -1,5 +1,5 @@
 #PYTHON2 CODE
-print 'Hello World!'
+print 'Mr. Eisaman is my favorite teaacher (Not really)!'
 
 #PYTHON3 CODE
 # print('Hello World!')
